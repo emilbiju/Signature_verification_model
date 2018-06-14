@@ -1,4 +1,4 @@
-# **Siganture verification model :**
+# **Signature verification model :**
 
 **This is a Siamese based model for offline siganture verification. It utilizes convolutional neural networks and deep learning to compare an original signature sample with a test sample and predict whether the test sample is genuine or forged.**
 
