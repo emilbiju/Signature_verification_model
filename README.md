@@ -1,1 +1,1 @@
-# siamese_sign
+# Siganture verification model
